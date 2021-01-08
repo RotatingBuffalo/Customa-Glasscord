@@ -1,0 +1,61 @@
+/* Base */
+@import url("https://customa.gitlab.io/Customa-Discord/Base/base.m.css");
+
+@import url("https://customa.gitlab.io/Customa-Discord/Base/buttons.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/font.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/modules.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/round.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/selection.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/tooltips.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/variables.m.css");
+/* Chat */
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/betterFileTypes.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/customEditIcon.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/customEditText.m.css");
+/* @import url("https://customa.gitlab.io/Customa-Discord/Chat/messageDividers.m.css"); */
+/* @import url("https://customa.gitlab.io/Customa-Discord/Chat/moreCompactCozyChat.m.css"); */
+/* @import url("https://customa.gitlab.io/Customa-Discord/Chat/typingOnRight.m.css"); */
+/* Emoji */
+@import url("https://customa.gitlab.io/Customa-Discord/Emoji/emoteZoom.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Emoji/jumboMoji.m.css");
+/* Misc */
+@import url("https://customa.gitlab.io/Customa-Discord/Misc/customSettingsModal.m.css"); 
+@import url("https://customa.gitlab.io/Customa-Discord/Misc/customStatusColors.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Misc/font_emma.m.css");
+/* */
+@import url("https://customa.gitlab.io/Customa-Discord/Misc/splash.m.css"); 
+/* Sidebar */
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/channelDivider.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/classicChannelSelect.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/classicStatusIndicator.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/coloredChannelIcons.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/folderNames.m.css");
+/*@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/wrapperChannel.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/wrapperGuild.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/wrapperMember.m.css"); */
+/*  */
+
+:root {
+    /* making the whole window transparent, pretty much. */
+    --glasscord-win-blur: blurbehind;
+    --glasscord-blur-corner-radius: 20px;
+    --glasscord-titlebar: osx;
+    --ColAppBG: #00000000;
+    --ColBackground1: #00000000;
+    --ColBackground2: #00000000;
+
+/* deciding how transparent i want popouts to be, and some accent colors you can tweak like ColAccent and ColTextTooltip */
+    --ColAccent: #ff00f290;
+    --ColPopout: #000000A8;
+    --ColModal: #000000A0;
+    --ColSpoilerCovered: #000000D0;
+    --ColWindowBar: #00000050;
+    --ColBackgroundTooltip: #00000070;
+    --ColTextTooltip: #ff00ff;
+}
+
+/* this makes the background in the customSettingsModal actually readable. If you want no transparency in your settings menu, change this to #000000 */
+.contentRegion-3nDuYy {
+	background-color: #000000D8!important;
+}
+    
