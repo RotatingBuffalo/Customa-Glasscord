@@ -4,9 +4,14 @@
 then let AryToNeX or the Customa devs know.*
 
 
-Glasscord's Repo
+Glasscord's Repo:
+
 https://github.com/AryToNeX/Glasscord
-Customa's Repo (though you don't really need it)
+
+Customa's Repo (though you don't really need it):
+
 https://github.com/Customa/Customa-Discord
-Powercord (Recommended, but probably not required) :
+
+Powercord (Recommended, but probably not required):
+
 https://powercord.dev/
