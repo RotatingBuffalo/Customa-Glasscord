@@ -1,5 +1,5 @@
-## Customa-Glasscord
-#A Customa theme incorporating glasscord transparency and blur effects.
+# Customa-Glasscord
+## A Customa theme incorporating glasscord transparency and blur effects.
 *If things are broken let me know, or if it's a problem out of my reach, 
 then let AryToNeX or the Customa devs know.*
 
