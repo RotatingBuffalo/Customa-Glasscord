@@ -12,6 +12,6 @@ Customa's Repo (though you don't really need it):
 
 https://github.com/Customa/Customa-Discord
 
-Powercord (Recommended, but probably not required):
+Powercord (I personally recommend this CSS loader, though you can probably use whatever you want.):
 
 https://powercord.dev/
